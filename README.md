@@ -16,7 +16,7 @@ A **Streamlit** web application that analyzes resumes using **Google Gemini AI**
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/your-repo-name/ats-resume-expert.git
+git clone https://github.com/barnawalraj001/ATS.git
 cd ats-resume-expert
 ```
 
@@ -87,4 +87,4 @@ pip install streamlit python-dotenv pymupdf google-generativeai
 ---
 
 ## **👨‍💻 Author**  
-Developed by **[Your Name]**  
+Developed by **Raj Barnawal**  
